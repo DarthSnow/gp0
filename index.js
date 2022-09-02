@@ -1,1 +1,4 @@
-console.log('test');
+// INDEX
+
+let str = 'Kino';
+console.log('STRING:', str);
